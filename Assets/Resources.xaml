@@ -17,7 +17,7 @@
     </DrawingGroup>
 
     <!-- 字体 -->
-    <FontFamily x:Key="IconFont">/WpfApp1;Component/Assets/Fonts/iconfont.ttf#iconfont</FontFamily>
-    <FontFamily x:Key="HOS_Medium">/WpfApp1;Component/Assets/Fonts/HarmonyOS_Sans_Medium.ttf#HarmonyOS Sans Medium</FontFamily>
+    <FontFamily x:Key="IconFont">/Demo.Wpf.Car;Component/Assets/Fonts/iconfont.ttf#iconfont</FontFamily>
+    <FontFamily x:Key="HOS_Medium">/Demo.Wpf.Car;Component/Assets/Fonts/HarmonyOS_Sans_Medium.ttf#HarmonyOS Sans Medium</FontFamily>
 
 </ResourceDictionary>
